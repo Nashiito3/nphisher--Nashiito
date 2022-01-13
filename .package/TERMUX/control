@@ -1,1 +1,8 @@
-
+Package: nphisher
+Version: 1.2
+Installed-Size: 9400
+Architecture: all
+Maintainer: @nashiito
+Depends: php, wget, git, curl, resolv-conf, proot
+Homepage: https://github.com/nashiito3/nphisher
+Description: Automated phishing tool with +30 templates. Educational purpose only !
