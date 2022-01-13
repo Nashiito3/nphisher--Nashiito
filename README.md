@@ -1,7 +1,7 @@
 <!-- Nphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src="https://imgur.com/a/uRlfzH0">
 </p>
 
 <p align="center">
